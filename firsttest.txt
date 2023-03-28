@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 lesson 7
 lesson 2
-=======
 lesson 1
 lesson 8
->>>>>>> 13a05efdcbf841d275ec3b1562d7c997d0a590a8
 lesson 3
 lesson 4
 lesson 5
